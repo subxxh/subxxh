@@ -23,12 +23,12 @@ I'm a curious and creative computer science enthusiast, currently studying Compu
 
 ### Languages & Libraries
 
-`Python` `SQL` `JavaScript` `HTML/CSS`
-`scikit-learn` `Keras` `TensorFlow` `pandas` `NumPy`
+`Python` `Java` `SQL` `JavaScript` `HTML/CSS` `C++`
+`scikit-learn` `matplotlib` `spaCy` `pandas` `NumPy`
 
 ### Frameworks & Tools
 
-`React` `Node.js` `Flask` `Git` `Jupyter`
+`React` `Node.js` `Flask` `Git` `Jupyter Notebooks`
 
 ---
 

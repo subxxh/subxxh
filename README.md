@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m \[Sairun]!
+## 👋 Hi there, I’m Sairun!
 🎓 Junior at Queens College, studying Computer Science and Economics
 
 🔭 Aspiring Data Scientist and Machine Learning Enthusiast

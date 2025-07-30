@@ -34,6 +34,7 @@ I'm a curious and creative computer science enthusiast, currently studying Compu
 
 ## Let's Connect!
 
+* 💼 [Email](subahalam561@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/sairunalam)
 
 
